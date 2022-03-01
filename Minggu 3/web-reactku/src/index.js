@@ -4,11 +4,17 @@ import './index.css';
 // import App from './App';
 import reportWebVitals from './reportWebVitals';
 
-const Hello=()=>{
-  return <p>Hello world</p>
+function HelloComponent(){
+  return HelloComponent
 }
 
-ReactDOM.render(<Hello/>,document.getElementById('root'));
+class StateFullCOmponent extends React.Component{
+  render(){
+    return<p>StateFullCOmponent</p>
+  }
+}
+
+ReactDOM.render(<HelloComponent/>,document.getElementById('root'));
 
 // If you want to start measuring performance in your app, pass a function
 // to log results (for example: reportWebVitals(console.log))
