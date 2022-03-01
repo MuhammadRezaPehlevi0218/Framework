@@ -6,7 +6,13 @@ import reportWebVitals from './reportWebVitals';
 
 function HelloComponent(){
   return HelloComponent
-};
+}
+
+class StateFullCOmponent extends React.Component{
+  render(){
+    return<p>StateFullCOmponent</p>
+  }
+}
 
 ReactDOM.render(<HelloComponent/>,document.getElementById('root'));
 
