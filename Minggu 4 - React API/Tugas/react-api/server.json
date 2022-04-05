@@ -1,31 +1,25 @@
 {
   "mahasiswa": [
     {
-      "id": 1647863386576,
-      "nim": "1941720060",
-      "nama": "Darman Saputra Saragih",
-      "alamat": "Medan",
-      "telfon": "082196360193",
+      "id": 12345678902344,
+      "nim": "1941720230",
+      "nama": "Muhammad Reza Pahlevi",
+      "alamat": "Jember",
+      "telfon": "80949494947858",
       "angkatan": "2019",
       "status": "Aktif"
     },
     {
-      "id": 1647863445630,
-      "nim": "1841720080",
-      "nama": "Ricardo Simarmata",
-      "alamat": "Jakarta",
-      "telfon": "088741092393",
-      "angkatan": "2019",
-      "status": "Aktif"
-    },
-    {
-      "id": 1647866741710,
-      "nim": "2041720187",
-      "nama": "Bayu Dimas",
-      "alamat": "Surabaya",
+      "id": 1235987543208,
+      "nim": "19416202308",
+      "nama": "Gusti",
+      "alamat": "Banyuwangi",
       "telfon": "082161843220",
-      "angkatan": "2020",
+      "angkatan": "2019",
       "status": "Cuti"
+    },
+    {
+      "id": 1647866741711
     }
   ],
   "comments": [
