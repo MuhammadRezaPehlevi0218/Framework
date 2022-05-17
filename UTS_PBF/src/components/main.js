@@ -11,16 +11,16 @@ class Main extends Component {
     return (
       <Router>
         <div>
-          <h1 className="title">Global SmartShop</h1>
+          <h1 className="title">SmartShop</h1>
           <ul className="header">
             <li>
               <Link to="/">Home</Link>
             </li>
             <li>
-              <Link to="/listProduct">List Produk</Link>
+              <Link to="/listProduct">Produk</Link>
             </li>
             <li>
-              <Link to="/cart">Cart</Link>
+              <Link to="/cart">Keranjang</Link>
             </li>
             <li>
               <Link to="/about">About</Link>
